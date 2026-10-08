@@ -180,7 +180,7 @@ Install:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/CodeAlpha_ProjectManagementTool.git
+git clone (https://github.com/gmpragna11-max/CodeAlpha_ProjectManagementTool.git)
 ```
 
 ### 2. Navigate to the project
